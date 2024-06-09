@@ -1,4 +1,5 @@
 ## Proyecto Interfaz Menu
+En este proyecto se implementaron distintos menus con java fx segun lo visto en clase a continuación el concepto y sintaxis de cada uno de los menus aplicados en el proyecto. Con su captura de funcionalidad de la interfaz.
 Los menús son un componente fundamental para crear interfaces de usuario (UI) intuitivas y fáciles de usar en aplicaciones JavaFX. Permiten a los usuarios acceder rápidamente a las funcionalidades de la aplicación de manera organizada y jerárquica.
 ## Imagen de la Interfaz de Menús
 ##### Menu Archivo:
