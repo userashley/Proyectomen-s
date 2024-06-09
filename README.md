@@ -12,7 +12,11 @@ Los menús son un componente fundamental para crear interfaces de usuario (UI) i
 Cada menú representa una categoría de funcionalidades relacionadas.
 Sintaxis:   
 
-         Menu archivoMenu = new Menu("Archivo");     
+         Menu archivoMenu = new Menu("Archivo"); 
+	 Menu editarMenu = new Menu("Editar");
+         Menu ayudaMenu = new Menu("Ayuda");
+Se Añadio menús principales como “Archivo”, “Editar”, y “Ayuda”.
+![Captura de Pantalla de la Aplicación](archivo.png).
              
 ### MenuItem
 Cada elemento del menú representa una acción específica que el usuario puede realizar.
