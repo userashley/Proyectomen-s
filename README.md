@@ -50,7 +50,8 @@ El setOnActionmétodo se utiliza para adjuntar un controlador de acciones a un c
         alert.setHeaderText("Información de la Practica Menu");
         alert.setContentText("Esta es una practica de ejemplo que muestra una barra de menú en JavaFX.");
         alert.showAndWait();
-
+### Imagen de Ejecución del MenuItem Acerca de :
+![Captura de Pantalla de la Aplicación](Mensaje.png).
         
 
 
