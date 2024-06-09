@@ -15,7 +15,7 @@ Sintaxis:
          Menu archivoMenu = new Menu("Archivo"); 
 	 Menu editarMenu = new Menu("Editar");
          Menu ayudaMenu = new Menu("Ayuda");
-Se Añadio menús principales como “Archivo”, “Editar”, y “Ayuda”.
+#### Se Añadió menús principales como “Archivo”, “Editar”, y “Ayuda”.
 ![Captura de Pantalla de la Aplicación](Menu.png).
              
 ### MenuItem
